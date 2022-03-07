@@ -1,4 +1,4 @@
 This is the project for optimization of so-called Hub Location Problem.
+If you are not familiar with this type of problem, please open the file, there is a detailed introduction to it.
 
-The aim of this project can be explained on an example of airport hubs:
-I have used 
+For those who are familiar with the concept of problem and metaheuristics, I have used Reduced Variable Neighborhood Search in combination with Tabu Search to approximate the best solution.
