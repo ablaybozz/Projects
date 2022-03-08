@@ -4,4 +4,4 @@ If you are not familiar with this type of problem, please open the file, there i
 For those who are familiar with the concept of problem and metaheuristics,
 I have used Reduced Variable Neighborhood Search in combination with Tabu Search to approximate the best solution of Uncapacitated Single Allocation p-Hub Location Problem.
 
-Result: less than 5% error from true optimal solution cost for 130 nodes dataset in less than 20mins.
+Result: less than 5% error from true optimal solution cost for 130 nodes dataset with 10 hubs in less than 20mins.
