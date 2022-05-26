@@ -1,4 +1,4 @@
-Wanna know what are the main issues android users experience in Steam app? I have done investigation finding it.
+Wanna know what are the main issues android users experience in mobile Steam app? I have done investigation finding it.
 Using natural language processing and machine learning models I found that about half of the negative reviews can be summarized in three issues:
   It was difficult to create account: invalid email, infinite buffering time, restarts if minimize the app
   It was difficult to log in the app: wrong password, steam guard not sending code, lost phone = no access
